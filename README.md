@@ -1,6 +1,5 @@
-# Controllo Accessi
+# Controllo Accessi  <img alt="GitLab badge" src="https://img.shields.io/badge/license-MIT%20License-green">
  Controllo Accessi realizzato con arduino mkr 1010 e visual studio.
-# Welcome to Allarmino  <img alt="GitLab badge" src="https://img.shields.io/badge/license-MIT%20License-green">
 
 In questa sezione troverai tutti i sorgenti Hardware, Software e Firmware per creare e utilizzare il tuo allarmino.
 
