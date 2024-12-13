@@ -3,16 +3,6 @@
 
 In questa sezione troverai tutti i sorgenti Hardware, Software e Firmware per creare e utilizzare il tuo allarmino.
 
-le riviste ElettronicaIN:
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax"><a href="https://futuranet.it/">Rivista Nr2XX</a> parla di come realizzare tutto l'ecosistema che trovate su Git-Hub</th>
-  </tr>
-</thead>
-
-</table>
-
 I Firmware disponibili per Arduino MKR 1010 sono:
 <table class="tg">
 <thead>
